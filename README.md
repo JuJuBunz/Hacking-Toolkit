@@ -15,3 +15,9 @@ This tool is made for KALI LINUX!!!
 Run as root! For educational purpose only!!!
 
 Installation:
+
+git clone https://github.com/JuJuBunz/Hacking-Toolkit.git
+
+cd Hacking-Toolkit
+
+sudo bash hackingtoolkit.sh
