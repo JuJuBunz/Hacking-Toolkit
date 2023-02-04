@@ -21,3 +21,7 @@ git clone https://github.com/JuJuBunz/Hacking-Toolkit.git
 cd Hacking-Toolkit
 
 sudo bash hackingtoolkit.sh
+
+Picture:
+
+![hacking toolkit png](https://user-images.githubusercontent.com/123039916/216785297-1b312c94-f851-42e4-bf43-2cbdea222149.png)
